@@ -1,0 +1,45 @@
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe.config
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csprojResolveAssemblyReference.cache
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Form1.resources
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Properties.Resources.resources
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csproj.GenerateResource.Cache
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.exe
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.SiparisEkran.resources
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.GunlukRapor.resources
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.AylikRapor.resources
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.UrunYonet.resources
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe.config
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.pdb
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.dll
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.dll
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.dll
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.pdb
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.pdb
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.xml
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.AylikRapor.resources
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Form1.resources
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.GunlukRapor.resources
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Properties.Resources.resources
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.SiparisEkran.resources
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.UrunYonet.resources
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csproj.GenerateResource.Cache
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.exe
+C:\Users\Lermi\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.pdb
+C:\Users\Lermi\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\KahveciLINQ.exe.config
+C:\Users\Lermi\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.exe
+C:\Users\Lermi\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.pdb
